@@ -1,1 +1,1 @@
-1. [CIA Triad.md](https://github.com/jonapt02/Security-Notes/blob/main/01-Fundamentos/CIA%20Triad.md)
+1. [CIA Triad.md](https://github.com/jonapt02/Security-Notes/blob/main/01-Fundamentos/01%20-%20CIA%20Triad.md)
